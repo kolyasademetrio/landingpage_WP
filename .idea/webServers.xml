@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dedbe880-fb21-4560-bf25-690ed6822368" name="expens01.ftp.ukraine.com.ua" url="http://expens01.ftp.ukraine.com.ua">
+        <fileTransfer host="expens01.ftp.ukraine.com.ua" port="21" password="dfc0df9cdf9bdf9fdfd9df9ddfcddfd3" username="expens01_vlad">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
